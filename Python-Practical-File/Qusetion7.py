@@ -1,0 +1,1 @@
+# 7. Write a program to create a dictionary and then perform various functions and methods with it.

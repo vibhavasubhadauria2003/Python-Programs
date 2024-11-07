@@ -1,0 +1,1 @@
+# 2. Write a program to input a string and then show how do you access it's characters by using indexing and slicing both by positive and negative indices.

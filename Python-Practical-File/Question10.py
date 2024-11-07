@@ -1,0 +1,1 @@
+# 10. Write a program on inheritance. Your program should incorporate all types of inheritance. Also include constructors in various classes along with other methods.

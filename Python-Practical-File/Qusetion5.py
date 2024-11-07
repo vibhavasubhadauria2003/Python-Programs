@@ -1,0 +1,1 @@
+# 5. Write a program to input a list and then perform various functions and methods with it.
